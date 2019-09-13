@@ -40,7 +40,7 @@
 
 ## English
 
-**ERZÄHLER:** Julia has a date.
+**Narrator:** Julia has a date.
 
 **Julia:** Hello, how are you?
 

@@ -62,7 +62,7 @@ Good Morning! Rainer and his wife Anna are at home.
 
 **Rainer:** Here is your coffee.
 
-**ERZÄHLER:** Anna give sugar in the coffee. She is drinking the coffee.
+**Narrator:** Anna give sugar in the coffee. She is drinking the coffee.
 
 **Anna:** Yuck!
 
